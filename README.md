@@ -6,7 +6,7 @@ This repository focuces on building several Classification Machine Learning Mode
 
 Although, I have a repository earlier with the same Hackathon- with PyCaret (using few lines of code)- This respository focuses on building several Classification models from scratch following the traditional Data Mining Approach of working on data preparation, data exploration, model buidling and validation
 
-This repository includes the code for the below:
+The code can be found in the LoanPrediction-ClassificationMLModels.ipynb" Notebook availabel in the same repository. "This repository includes the code for the below:
 
 
 # Step 1: Data Exploration
